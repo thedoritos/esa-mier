@@ -1,0 +1,14 @@
+h3::before {
+    content: "H3: " !important;
+    color: dimgray;
+}
+
+h4::before {
+    content: "H4: " !important;
+    color: dimgray;
+}
+
+h5::before {
+    content: "H5: " !important;
+    color: dimgray;
+}
